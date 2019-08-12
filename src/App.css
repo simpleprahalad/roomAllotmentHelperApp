@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-image: url("../public/backgrd_1.png");
+  height: 90px;
+  padding: 20px;
+  padding-top: 10px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.header-text {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px;
+  color: blue;
+}
+
+.image {
+  width: 120px;
+  height: 120px;
+}
+
+.phone-logo {
+  width: 15px;
+  /* height: 15px; */
+}
+
+.hotel-logo {
+  height: 50px;
+  /* height: 15px; */
+}
